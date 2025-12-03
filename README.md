@@ -12,7 +12,7 @@ All data you create or adjust within the Application is stored locally on your d
 
 **App Store Data**
 
-Please note that app stores (Google Play Store, Apple App Store) may collect their own usage data according to their respective privacy policies, which are outside our control.
+Please note that app stores (Google Play Store, Apple App Store) may collect their own usage data according to their respective privacy policies.
 
 **Does the Application collect precise real time location information of the device?**
 
