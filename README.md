@@ -20,7 +20,7 @@ This Application does not collect precise information about the location of your
 
 **Do third parties see and/or have access to information obtained by the Application?**
 
-Since the Application does not collect any information, no data is shared with third parties.
+Since the Application does not collect any information and is not connected to external servers, no data is shared with third parties.
 
 **What are my opt-out rights?**
 
