@@ -46,7 +46,7 @@ This privacy policy is effective as of 2025-12-03
 
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by the Service Provider.
 
-**Contact Us**
+**Contact**
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at dev.esmee.kluijtmans@gmail.com.
 
