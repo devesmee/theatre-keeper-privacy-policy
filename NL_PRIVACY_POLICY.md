@@ -2,6 +2,8 @@
 
 Dit privacybeleid is van toepassing op de Theatre Keeper app (hierna 'Applicatie' genoemd) voor mobiele apparaten, die is ontwikkeld door Esmee Kluijtmans (hierna 'Dienstverlener' genoemd) als een gratis dienst. Deze dienst is bedoeld voor gebruik 'zoals deze is'.
 
+Laatste update: 22 December 2025
+
 **Welke informatie verzamelt de Applicatie en hoe wordt deze gebruikt?**
 
 De Applicatie verzamelt geen informatie wanneer u deze downloadt en gebruikt. Registratie is niet vereist om de Applicatie te gebruiken. De Applicatie werkt volledig offline en maakt geen verbinding met externe servers.
