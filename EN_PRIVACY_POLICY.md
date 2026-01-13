@@ -2,7 +2,7 @@
 
 This privacy policy applies to the Theatre Keeper app (hereby referred to as "Application") for mobile devices that was created by Esmee Kluijtmans (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-Last updated: 13 January 2025
+Last updated: 13 January 2026
 
 **Information Collection and Use**
 
