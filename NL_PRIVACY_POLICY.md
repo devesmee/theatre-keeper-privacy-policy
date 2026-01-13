@@ -7,7 +7,7 @@ Laatste update: 13 Januari 2026
 **Informatie verzameling en gebruik**
 
 Als de gebruiker toestemming heeft gegeven, verzameld de Applicatie anonieme gebruiksgegevens. Deze data wordt verzamelt om de functionaliteit en gebruikerservaring van de Applicatie te verbeteren. Deze data bevat:
-- Schermen van de Applicatie die u bezocht hebt
+- Schermen van de Applicatie die u bezocht heeft
 - Acties die uitgevoerd zijn binnen de Applicatie
 - Dag / Tijd en hoe lang de Applicatie is gebruikt
 - Land / Regio van de gebruiker - maar niet de precieze locatie van de gebruiker
