@@ -2,31 +2,47 @@
 
 This privacy policy applies to the Theatre Keeper app (hereby referred to as "Application") for mobile devices that was created by Esmee Kluijtmans (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-Last updated: 22 December 2025
+Last updated: 13 January 2025
 
-**What information does the Application obtain and how is it used?**
+**Information Collection and Use**
 
-The Application does not obtain any information when you download and use it. Registration is not required to use the Application. The Application operates entirely offline and does not connect to external servers.
+If permission is granted by the user, the Application collects anonymous usage data. This data is collected to improve the functionality and user experience of the Application. This data includes:
+- Screens of the Application that you have visited
+- Actions that are executed within the Application
+- Day / Time and how long the Application has been used
+- Country / Region of the user - not the precise location of the user's mobile device
+- OS and OS version of the device the Application is run on
+- Crash traces
 
-**Data Storage**
+To gather this information we make use of:
+- Firebase Crashlytics
+- Firebase / Google Analytics
 
-All data you create or adjust within the Application is stored locally on your device only. We do not collect, transmit, or store any of your data on external servers.
+If no permission is granted, none of this data is collected.
+
+Registration is not required to use the Application.
 
 **App Store Data**
 
 Please note that app stores (Google Play Store, Apple App Store) may collect their own usage data according to their respective privacy policies.
 
-**Does the Application collect precise real time location information of the device?**
+**Third Party Access**
 
-This Application does not collect precise information about the location of your mobile device.
+If permission is granted by the user, only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-**Do third parties see and/or have access to information obtained by the Application?**
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-Since the Application does not collect any information and is not connected to external servers, no data is shared with third parties.
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
-**What are my opt-out rights?**
+**Opt-out rights**
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can stop all collection of information by the Application easily by refusing the approval to collect anonymous information via the Application's menu, or by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+**Data Retention Policy**
+
+Anonymous usage data collected by the Application will be stored for a maximum of 14 months and will then be deleted. Anonymous crash data will be stored for a maximum of 90 days. Any information you have entered via the app (like a visit), will be stored on your own device for as long as you keep the app installed.
 
 **Children**
 
@@ -36,7 +52,7 @@ The Service Provider does not knowingly collect personally identifiable informat
 
 **Security**
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. However, since the Application does not collect any information, there is no risk of your data being accessed by unauthorized individuals.
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
 **Changes**
 
