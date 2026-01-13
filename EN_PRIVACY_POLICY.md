@@ -42,7 +42,7 @@ You can stop all collection of information by the Application easily by refusing
 
 **Data Retention Policy**
 
-Anonymous usage data collected by the Application will be stored for a maximum of 14 months and will then be deleted. Anonymous crash data will be stored for a maximum of 90 days. Any information you have entered via the app (like a visit), will be stored on your own device for as long as you keep the app installed.
+Anonymous usage data collected by the Application will be stored for a maximum of 14 months and will then be automatically deleted. Anonymous crash data will be stored for a maximum of 90 days. Any information you have entered via the app (like a visit), will be stored on your own device for as long as you keep the app installed.
 
 **Children**
 
@@ -58,7 +58,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-12-03
+This privacy policy is effective as of 3rd of December 2025.
 
 **Your Consent**
 
