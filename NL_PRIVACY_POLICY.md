@@ -2,31 +2,47 @@
 
 Dit privacybeleid is van toepassing op de Theatre Keeper app (hierna 'Applicatie' genoemd) voor mobiele apparaten, die is ontwikkeld door Esmee Kluijtmans (hierna 'Dienstverlener' genoemd) als een gratis dienst. Deze dienst is bedoeld voor gebruik 'zoals deze is'.
 
-Laatste update: 22 December 2025
+Laatste update: 13 Januari 2026
 
-**Welke informatie verzamelt de Applicatie en hoe wordt deze gebruikt?**
+**Information verzameling en gebruikt**
 
-De Applicatie verzamelt geen informatie wanneer u deze downloadt en gebruikt. Registratie is niet vereist om de Applicatie te gebruiken. De Applicatie werkt volledig offline en maakt geen verbinding met externe servers.
+Als de gebruiker toestemming heeft gegeven, verzameld de Applicatie anonieme gebruiksgegevens. Deze data wordt verzamelt om de functionaliteit en gebruikerservaring van de Applicatie te verbeteren. Deze data bevat:
+- Schermen van de Applicatie die u bezocht hebt
+- Acties die uitgevoerd zijn binnen de Applicatie
+- Dag / Tijd en hoe lang de Applicatie is gebruikt
+- Land / Regio van de gebruiker - maar niet de precieze locatie van de gebruiker
+- Besturingssysteem en besturingsysteem's versie van het apparaat waarop de Applicatie wordt gebruikt
+- Crash verslagen
 
-**Gegevensopslag**
+Om deze informatie te verzamelen, maken we gebruik van:
+- Firebase Crashlytics
+- Firebase / Google Analytics
 
-Alle gegevens die u aanmaakt of aanpast binnen de Applicatie worden alleen lokaal op uw apparaat opgeslagen. Wij verzamelen, verzenden of bewaren geen van uw gegevens op externe servers.
+Als de gebruiker geen toestemming heeft gegeven, wordt deze data niet verzameld.
+
+Registratie is niet vereist om de Applicatie te gebruiken.
 
 **App Store-gegevens**
 
 Houd er rekening mee dat app stores (Google Play Store, Apple App Store) hun eigen gebruiksgegevens kunnen verzamelen volgens hun respectievelijke privacybeleid.
 
-**Verzamelt de Applicatie nauwkeurige realtime locatiegegevens van het apparaat?**
+**Toegang door derden**
 
-Deze Applicatie verzamelt geen nauwkeurige locatiegegevens van uw mobiele apparaat.
+If permission is granted by the user, only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-**Kunnen derden informatie zien en/of toegang krijgen tot informatie die door de Applicatie wordt verzameld?**
+Houd er rekening mee dat de applicatie gebruikmaakt van diensten van derden die hun eigen privacybeleid hebben met betrekking tot de verwerking van gegevens. Hieronder vindt u de links naar het privacybeleid van de externe dienstverleners die door de applicatie worden gebruikt:
 
-Aangezien de Applicatie geen informatie verzamelt en niet is verbonden met externe servers, worden er geen gegevens gedeeld met derden.
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
-**Wat zijn mijn rechten om me af te melden?**
+**Recht om af te melden**
 
-U kunt het verzamelen van gegevens door de Applicatie eenvoudig stoppen door deze te verwijderen. U kunt hiervoor de standaard verwijderingsprocedures gebruiken die beschikbaar zijn op uw mobiele apparaat of via de app-store of het netwerk.
+U kunt het verzamelen van gegevens door de applicatie eenvoudig stoppen door de toestemming voor het verzamelen van anonieme gegevens te weigeren via het menu van de applicatie, of door de applicatie te verwijderen. U kunt hiervoor de standaard verwijderingsprocedures gebruiken die beschikbaar zijn op uw mobiele apparaat of via de app-winkel of het netwerk.
+
+**Beleid voor gegevensbewaring**
+
+Anonieme gebruiksgegevens die door de applicatie worden verzameld, worden maximaal 14 maanden bewaard en daarna automatisch verwijderd. Anonieme crashgegevens worden maximaal 90 dagen bewaard. Alle informatie die u via de app hebt ingevoerd (zoals een bezoek) wordt op uw eigen apparaat opgeslagen zolang u de app geïnstalleerd houdt.
 
 **Kinderen**
 
@@ -36,7 +52,7 @@ De Dienstverlener verzamelt niet bewust persoonsgegevens van kinderen. De Dienst
 
 **Beveiliging**
 
-De Dienstverlener hecht veel belang aan de bescherming van de vertrouwelijkheid van uw gegevens. Aangezien de Applicatie echter geen gegevens verzamelt, bestaat er geen risico dat uw gegevens door onbevoegden worden ingezien.
+De dienstverlener hecht veel belang aan de bescherming van de vertrouwelijkheid van uw gegevens. De dienstverlener treft fysieke, elektronische en procedurele beveiligingsmaatregelen om de informatie die zij verwerkt en beheert te beschermen.
 
 **Wijzigingen**
 
