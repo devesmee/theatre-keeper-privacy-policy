@@ -28,7 +28,7 @@ Houd er rekening mee dat app stores (Google Play Store, Apple App Store) hun eig
 
 **Toegang door derden**
 
-If permission is granted by the user, only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Indien de gebruiker hiervoor toestemming geeft, worden periodiek alleen geaggregeerde, geanonimiseerde gegevens naar externe diensten verzonden om de dienstverlener te helpen de applicatie en diens dienstverlening te verbeteren. De dienstverlener kan uw gegevens met derden delen op de manieren die in deze privacyverklaring worden beschreven.
 
 Houd er rekening mee dat de applicatie gebruikmaakt van diensten van derden die hun eigen privacybeleid hebben met betrekking tot de verwerking van gegevens. Hieronder vindt u de links naar het privacybeleid van de externe dienstverleners die door de applicatie worden gebruikt:
 
