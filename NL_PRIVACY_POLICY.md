@@ -4,7 +4,7 @@ Dit privacybeleid is van toepassing op de Theatre Keeper app (hierna 'Applicatie
 
 Laatste update: 13 Januari 2026
 
-**Information verzameling en gebruikt**
+**Informatie verzameling en gebruik**
 
 Als de gebruiker toestemming heeft gegeven, verzameld de Applicatie anonieme gebruiksgegevens. Deze data wordt verzamelt om de functionaliteit en gebruikerservaring van de Applicatie te verbeteren. Deze data bevat:
 - Schermen van de Applicatie die u bezocht hebt
